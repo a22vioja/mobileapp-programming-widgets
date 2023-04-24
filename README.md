@@ -118,6 +118,6 @@ which is not implemented yet. I also added one more `TextView`.
 
 This is my Simpsons App view:
 
-![](IMG_1138.png)
+![](widgets.png)
 
 L
