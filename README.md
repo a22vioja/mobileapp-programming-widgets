@@ -111,7 +111,7 @@ which is not implemented yet. I also added one more `TextView`.
         android:text="Swich to Dark Mode:"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintStart_toStartOwif="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
         app:layout_constraintVertical_bias="0.357" />
 ```
